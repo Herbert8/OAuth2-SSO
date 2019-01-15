@@ -1,0 +1,13 @@
+server:
+  port: 9999
+  servlet:
+    context-path: /server
+
+spring:
+  security:
+    user:
+      name: myuser
+      password: 123
+
+
+
